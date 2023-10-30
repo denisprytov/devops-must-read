@@ -1,5 +1,5 @@
 ## Useful information
-https://github.com/bregman-arie/devops-exercises
+https://github.com/bregman-arie/devops-exercises  
 https://github.com/milanm/DevOps-Roadmap
 
 ## Nginx
