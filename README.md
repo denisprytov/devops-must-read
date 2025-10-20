@@ -2,9 +2,7 @@
 
 > В директории [books/](./books/) вы найдете дополнительную литературу по сетям и системному администрированию Linux/Unix.
 
-## Критически важные ресурсы для DevOps инженера
-
-### Фундаментальные концепции
+## Фундаментальные концепции
 
 1. **[DevOps Roadmap](https://roadmap.sh/devops)** - Интерактивная карта развития DevOps инженера. Показывает что и в какой последовательности изучать.
 
@@ -12,7 +10,7 @@
 
 3. **[DORA Metrics](https://dora.dev/)** - Научный подход к измерению производительности DevOps команд.
 
-### Неочевидные материалы от лидеров индустрии
+## Различные материалы
 
 4. **[High Scalability](http://highscalability.com/)** - Архитектурные решения крупнейших систем мира. Как работают Twitter, Netflix, Uber изнутри.
 
@@ -24,6 +22,6 @@
 
 ## Дополнительные ресурсы
 
-- **[DevOps Exercises](https://github.com/bregman-arie/devops-exercises)** - 2500+ упражнений по всем аспектам DevOps
-- **[OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/)** - Безопасность в DevOps
-- **[Container Security Book](https://container-security.site/)** - Бесплатная книга по безопасности контейнеров от Liz Rice
+8. **[DevOps Exercises](https://github.com/bregman-arie/devops-exercises)** - 2500+ упражнений по всем аспектам DevOps
+9. **[OWASP DevSecOps Guideline](https://owasp.org/www-project-devsecops-guideline/)** - Безопасность в DevOps
+10. **[Container Security Book](https://container-security.site/)** - Бесплатная книга по безопасности контейнеров от Liz Rice
